@@ -1,0 +1,6 @@
+{
+  "name": "EduFee - Quản Lý Lớp Học & Thu Học Phí",
+  "description": "Web app quản lý lớp học, lịch dạy, điểm danh và tính học phí tự động, xuất phiếu thu chuyên nghiệp dành cho giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
